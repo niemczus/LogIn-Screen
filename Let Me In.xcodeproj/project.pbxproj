@@ -13,6 +13,7 @@
 		32FD957827B3B18000688958 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 32FD957627B3B18000688958 /* Main.storyboard */; };
 		32FD957A27B3B18100688958 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 32FD957927B3B18100688958 /* Assets.xcassets */; };
 		32FD957D27B3B18100688958 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 32FD957B27B3B18100688958 /* LaunchScreen.storyboard */; };
+		32FD958527B3CB2000688958 /* MainAppVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 32FD958427B3CB2000688958 /* MainAppVC.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		32FD957927B3B18100688958 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		32FD957C27B3B18100688958 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		32FD957E27B3B18100688958 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		32FD958427B3CB2000688958 /* MainAppVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MainAppVC.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				32FD957027B3B18000688958 /* AppDelegate.swift */,
 				32FD957227B3B18000688958 /* SceneDelegate.swift */,
 				32FD957427B3B18000688958 /* ViewController.swift */,
+				32FD958427B3CB2000688958 /* MainAppVC.swift */,
 				32FD957627B3B18000688958 /* Main.storyboard */,
 				32FD957927B3B18100688958 /* Assets.xcassets */,
 				32FD957B27B3B18100688958 /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				32FD957527B3B18000688958 /* ViewController.swift in Sources */,
+				32FD958527B3CB2000688958 /* MainAppVC.swift in Sources */,
 				32FD957127B3B18000688958 /* AppDelegate.swift in Sources */,
 				32FD957327B3B18000688958 /* SceneDelegate.swift in Sources */,
 			);
